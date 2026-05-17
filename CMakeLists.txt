@@ -7,3 +7,4 @@ set(CMAKE_CXX_FLAGS "-Wall -Werror")
 include_directories("include")
 
 add_subdirectory(src)
+add_subdirectory(tests)
